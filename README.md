@@ -41,7 +41,8 @@ Livrables
 - Un support de présentation pour la soutenance, détaillant le travail réalisé.
 Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P7_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P7_01_dashboard”, “P7_02_dossier”, et ainsi de suite.
 
-Soutenance
+Soutenance  
+
 Pendant la soutenance, l’évaluateur jouera le rôle de Michaël, à qui vous présentez votre travail. 
 
 Présentation (20 minutes) 
