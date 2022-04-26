@@ -48,10 +48,10 @@ Pendant la soutenance, l’évaluateur jouera le rôle de Michaël, à qui vous 
 Présentation (20 minutes) 
 - Rappel de la problématique et présentation du jeu de données (5 minutes)
 - Explication de l’approche de modélisation (10 minutes)
-- Présentation du dashboard (5 minutes)
+- Présentation du dashboard (5 minutes)  
 Discussion (5 minutes)
 - L’évaluateur, jouant le rôle de Michaël, vous challengera sur vos choix. 
-Débriefing (5 minutes)
+Débriefing (5 minutes)  
 - À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Michaël pour vous permettre de débriefer ensemble. 
 
 Compétences évaluées
