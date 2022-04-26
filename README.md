@@ -30,31 +30,43 @@ Michaël vous a fourni des spécifications pour le dashboard interactif. Celui-c
 Livrables 
 - Le dashboard interactif répondant aux spécifications ci-dessus et l’API de prédiction du score, déployées chacunes sur le cloud.
 - Un dossier sur un outil de versioning de code contenant :
-    -> Le code de la modélisation (du prétraitement à la prédiction)
-    -> Le code générant le dashboard
-    -> Le code permettant de déployer le modèle sous forme d'API
+
+    -> Le code de la modélisation (du prétraitement à la prédiction)  
+    
+    -> Le code générant le dashboard  
+    
+    -> Le code permettant de déployer le modèle sous forme d'API  
+    
+    
 - Une note méthodologique décrivant :
-    -> La méthodologie d'entraînement du modèle (2 pages maximum)
-    -> La fonction coût métier, l'algorithme d'optimisation et la métrique d'évaluation (1 page maximum)
-    -> L’interprétabilité globale et locale du modèle (1 page maximum)
-    -> Les limites et les améliorations possibles (1 page maximum)
+
+    -> La méthodologie d'entraînement du modèle (2 pages maximum)  
+    
+    -> La fonction coût métier, l'algorithme d'optimisation et la métrique d'évaluation (1 page maximum)  
+    
+    -> L’interprétabilité globale et locale du modèle (1 page maximum)   
+    
+    -> Les limites et les améliorations possibles (1 page maximum)  
+    
 - Un support de présentation pour la soutenance, détaillant le travail réalisé.
 Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P7_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P7_01_dashboard”, “P7_02_dossier”, et ainsi de suite.
 
 Soutenance  
 
 Pendant la soutenance, l’évaluateur jouera le rôle de Michaël, à qui vous présentez votre travail. 
+- Présentation (20 minutes) 
+    -> Rappel de la problématique et présentation du jeu de données (5 minutes)  
+    
+    -> Explication de l’approche de modélisation (10 minutes)  
+    
+    -> Présentation du dashboard (5 minutes)    
+    
 
-Présentation (20 minutes) 
-- Rappel de la problématique et présentation du jeu de données (5 minutes)
-- Explication de l’approche de modélisation (10 minutes)
-- Présentation du dashboard (5 minutes)  
+- Discussion (5 minutes)
+    -> L’évaluateur, jouant le rôle de Michaël, vous challengera sur vos choix.  
 
-Discussion (5 minutes)
-- L’évaluateur, jouant le rôle de Michaël, vous challengera sur vos choix.  
-
-Débriefing (5 minutes)  
-- À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Michaël pour vous permettre de débriefer ensemble. 
+- Débriefing (5 minutes)  
+    -> À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Michaël pour vous permettre de débriefer ensemble. 
 
 Compétences évaluées
 - Utiliser un logiciel de version de code pour assurer l’intégration du modèle
