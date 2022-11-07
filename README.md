@@ -3,11 +3,12 @@ Projet 7 Openclassrooms
 
 Notebooks in this repository:
 -----------------------------
-* Scoring_PyCharm-master : Directory containing codes to deploy an API concerning the ability of a single customer to repay or not his loan
-* EDA (Exploratory Data Analysis) : Analysis of the different datasets
-* Feature Engineering : pre-processing, feature engineering, merging datasets, further EDA
-* Modelling : modelling with different machine learning algorithms, evaluation of models, optimization of best model
-* Feature importance : Global and local feature importance using the library SHAP
+* Scoring_Dashboard_Dash-master: Directory containing codes to deploy an interactive dashboard concerning the ability of a single customer to repay or not his loan
+* Scoring_PyCharm-master: Directory containing codes to deploy an API concerning the ability of a single customer to repay or not his loan
+* EDA (Exploratory Data Analysis): Analysis of the different datasets
+* Feature Engineering: pre-processing, feature engineering, merging datasets, further EDA
+* Modelling: modelling with different machine learning algorithms, evaluation of models, optimization of best model
+* Feature importance: Global and local feature importance using the library SHAP
 
 
 Description du projet:
